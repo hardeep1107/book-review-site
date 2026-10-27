@@ -1,0 +1,9 @@
+/* Center the main content */
+main {
+    text-align: center;
+}
+
+/* Round the corners of the maintainer image */
+main img {
+    border-radius: 12px;
+}

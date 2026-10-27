@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* 2. Style the header */
+header {
+    background-color: lightblue;
+    border: 2px solid navy;
+}
+
+/* 3. Style the footer */
+footer {
+    background-color: lightgray;
+    border: 2px solid gray;
+}
+
+/* 4. Add a background color to the main section */
+main {
+    background-color: #f5f5f5;
+}
+
+/* 5. Change heading colors */
+h1, h2, h3 {
+    color: darkblue;
+}
+
+/* 6. Change navigation link color when hovered */
+nav a:hover {
+    color: crimson;
+}
+
+/* 7. Remove bullet points from unordered lists */
+ul {
+    list-style-type: none;
+}

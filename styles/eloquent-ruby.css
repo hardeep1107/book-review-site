@@ -1,0 +1,9 @@
+/* Give each review a light gray background */
+article {
+    background-color: lightgray;
+}
+
+/* Set paragraph line spacing to 150% */
+article p {
+    line-height: 150%;
+}

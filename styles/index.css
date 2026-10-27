@@ -1,0 +1,4 @@
+/* Make all images the same width */
+img {
+    width: 200px;
+}
